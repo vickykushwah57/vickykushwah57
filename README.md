@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Vickey Kushwah 👋
 
-<!--
-**vickykushwah57/vickykushwah57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Developer | Spring Boot Developer
 
-Here are some ideas to get you started:
+I am a fresher Java Developer interested in building
+backend applications using Java and Spring Boot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Java
+- Spring Boot
+- Spring Data JPA
+- REST API
+- MySQL
+- Hibernate
+- Git & GitHub
+
+### Projects
+- Library Management System
+- Online Cricket Score
+- College Management System
