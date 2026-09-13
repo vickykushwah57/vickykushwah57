@@ -61,6 +61,10 @@ A Java Full Stack application for viewing cricket scores, match information and 
 🔗 [View Project](YOUR_CRICKET_PROJECT_LINK)
 
 
+## 🔥GitHub Streak
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vickykushwah57&theme=dark" alt="vickykushwah57" /></p>
+
 ## 📊 GitHub Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vickykushwah57&show_icons=true&locale=en" alt="GitHub Stats" /></p>
@@ -69,12 +73,7 @@ A Java Full Stack application for viewing cricket scores, match information and 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vickykushwah57&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 
-## 🔥GitHub Streak
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vickykushwah57&theme=dark" alt="vickykushwah57" /></p>
-
 ## 🤝 Connect With Me
-
 
 <p align="left">
 
