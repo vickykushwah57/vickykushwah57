@@ -63,15 +63,15 @@ A Java Full Stack application for viewing cricket scores, match information and 
 
 ## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://ghstats.dev/api/card?username=vickykushwah57&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /></p>
+![GitHub Stats](https://ghstats.dev/api/card?username=vickykushwah57&theme=default)
 
 ## 💻 Top Languages
 
-<p><img align="center" src="https://ghstats.dev/api/card?username=vickykushwah57&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+![Top Languages](https://ghstats.dev/api/card?username=vickykushwah57&theme=default&layout=compact)
 
-## 🔥GitHub Streak
+## 🔥 GitHub Streak
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vickykushwah57&theme=dark" alt="vickykushwah57" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=vickykushwah57&theme=default)](https://git.io/streak-stats)
 
 ## 🤝 Connect With Me
 
