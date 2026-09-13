@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vickey Kushwah</h1>
-<h3 align="center">A passionate Java Developer and Spring Boot enthusiast from India</h3>
+## 👨‍💻 About Me
+
+Hi! I'm **Shiva Kushwah**, a passionate **Java Developer** and **Spring Boot enthusiast** from India.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vickykushwah57&label=Profile%20views&color=0e75b6&style=flat" alt="vickykushwah57" /> </p>
 
@@ -19,9 +20,7 @@
 
 - ⚡ Fun fact **I believe consistent learning leads to great results 🚀**
 
-## 👨‍💻 About Me
 
-Hi! I'm **Shiva Kushwah**, a passionate **Java Developer** and **Spring Boot enthusiast** from India.
 
 - 🎓 I'm a fresher looking for opportunities as a Java Developer.
 - ☕ I enjoy building applications using Java and Spring Boot.
