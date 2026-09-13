@@ -74,33 +74,24 @@ A Java Full Stack application for viewing cricket scores, match information and 
 <a href="https://linkedin.com/in/vickeykushwah57" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-
-
 <a href="mailto:kushwahvicky80@gmail.com">
 <img align="center" src="https://cdn.simpleicons.org/gmail" alt="Email" height="30" width="40" />
 </a>
-
-
 <a href="https://github.com/vickykushwah57" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
 </a>
-
 <a href="https://www.leetcode.com/vickey_57" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
 </a>
-
 <a href="https://www.hackerrank.com/vicky57" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
 </a>
-
 <a href="https://www.youtube.com/@vickeykushwah57" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
 </a>
-
 <a href="https://instagram.com/nameisvickey_" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
 </a>
-
 <a href="https://fb.com/vickeykushwah57" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
 </a>
