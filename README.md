@@ -75,9 +75,11 @@ A Java Full Stack application for viewing cricket scores, match information and 
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 
-<a href="mailto:kushwahvicky80@gmail.com" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
+
+<a href="mailto:kushwahvicky80@gmail.com">
+<img align="center" src="https://cdn.simpleicons.org/gmail" alt="Email" height="30" width="40" />
 </a>
+
 
 <a href="https://github.com/vickykushwah57" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
