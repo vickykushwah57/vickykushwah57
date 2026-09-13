@@ -1,11 +1,9 @@
 ## 👨‍💻 About Me
 
-Hi! I'm **Shiva Kushwah**, a passionate **Java Developer** and **Spring Boot enthusiast** from India.
+Hi! I'm **Vickey Kushwah**, a passionate **Java Developer** and **Spring Boot enthusiast** from India.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vickykushwah57&label=Profile%20views&color=0e75b6&style=flat" alt="vickykushwah57" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vickykushwah57" alt="vickykushwah57" /></a> </p>
-
+- 🎓 I'm a fresher looking for opportunities as a Java Developer.
+  
 - 🔭 I’m currently working on [Library Management System](https://github.com/vickykushwah57/library-management-system)
 
 - 🌱 I’m currently learning **Java, Spring Boot, Spring Data JPA, REST API, React, Hibernate, MySQL, Git & GitHub**
@@ -14,54 +12,15 @@ Hi! I'm **Shiva Kushwah**, a passionate **Java Developer** and **Spring Boot ent
 
 - 🤝 I’m looking for help with **Spring Boot & Full Stack Development**
 
+- 🧩 I have a strong interest in backend development and REST API development.
+
 - 💬 Ask me about **Java, Spring Boot, REST APIs, MySQL**
 
 - 📫 How to reach me **kushwahvicky80@gmail.com**
 
 - ⚡ Fun fact **I believe consistent learning leads to great results 🚀**
 
-
-
-- 🎓 I'm a fresher looking for opportunities as a Java Developer.
-- ☕ I enjoy building applications using Java and Spring Boot.
-- 🚀 Currently working on a **Library Management System** using Spring Boot, React and MySQL.
-- 🧩 I have a strong interest in backend development and REST API development.
-- 📚 I believe in continuous learning and improving my development skills.
 - 🎯 My goal is to build clean, scalable and real-world applications.
-
-
-## 🛠️ Technical Skills
-
-### 💻 Programming Languages
-- Java
-- JavaScript
-- SQL
-- HTML
-- CSS
-
-### 🚀 Backend
-- Spring Boot
-- Spring MVC
-- Spring Data JPA
-- Hibernate
-- REST APIs
-- JDBC
-
-### ⚛️ Frontend
-- React
-- JavaScript
-- HTML5
-- CSS3
-
-### 🗄️ Database
-- MySQL
-
-### 🔧 Tools & Technologies
-- Git
-- GitHub
-- Spring Tool Suite (STS)
-- Maven
-- Postman
 
 
 ## 🚀 Featured Projects
@@ -102,42 +61,51 @@ A Java Full Stack application for viewing cricket scores, match information and 
 🔗 [View Project](YOUR_CRICKET_PROJECT_LINK)
 
 
-## 📚 Currently Learning
-
-- ☕ Advanced Java
-- 🌱 Spring Boot
-- 🔗 REST API Development
-- 🗄️ Spring Data JPA & Hibernate
-- ⚛️ React
-- 🔐 Spring Security
-- 🧪 Testing with JUnit & Mockito
-- 🚀 Building production-ready applications
-
-
 ## 📊 GitHub Stats
 
 ![Shiva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
 
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default)
-
-
 ## 🤝 Connect With Me
+
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+<a href="[YOUR_LINKEDIN_LINK](https://linkedin.com/in/vickeykushwah57)" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+<a href="mailto:kushwahvicky80@gmail.com">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+<a href="[YOUR_GITHUB_LINK](https://github.com/vickykushwah57)" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+</a>
+
+<a href="[YOUR_LEETCODE_LINK](https://www.leetcode.com/vickey_57)" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+</a>
+
+<a href="[YOUR_HACKERRANK_LINK](https://www.hackerrank.com/vicky57)" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+</a>
+
+<a href="[YOUR_CODECHEF_LINK](https://www.codechef.com/users/vickey_57)" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
+</a>
+
+<a href="[YOUR_YOUTUBE_LINK](https://www.youtube.com/c/vickeykushwah57)" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+</a>
+
+<a href="[YOUR_INSTAGRAM_LINK](https://instagram.com/nameisvickey_)" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
+
+<a href="[YOUR_FACEBOOK_LINK](https://fb.com/vickeykushwah57)" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
 </a>
 
 </p>
+
