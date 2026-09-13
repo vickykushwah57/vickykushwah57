@@ -93,7 +93,7 @@ A Java Full Stack application for viewing cricket scores, match information and 
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
 </a>
 
-<a href="https://www.youtube.com/c/@vickeykushwah57" target="_blank">
+<a href="https://www.youtube.com/@vickeykushwah57" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
 </a>
 
