@@ -63,15 +63,15 @@ A Java Full Stack application for viewing cricket scores, match information and 
 
 ## 📊 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=shiva123&show_icons=true&theme=default
+https://github-readme-stats.vercel.app/api?username=vickykushwah57&show_icons=true&theme=default
 
 ## Top Languages
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=shiva123&layout=compact&theme=default
+https://github-readme-stats.vercel.app/api/top-langs/?username=vickykushwah57&layout=compact&theme=default
 
 ## Streak Stats
 
-https://streak-stats.demolab.com?user=shiva123&theme=default https://git.io/streak-stats
+https://streak-stats.demolab.com?user=vickykushwah57&theme=default https://git.io/streak-stats
 
 
 ## 🤝 Connect With Me
