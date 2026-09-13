@@ -71,39 +71,39 @@ A Java Full Stack application for viewing cricket scores, match information and 
 
 <p align="left">
 
-<a href="[YOUR_LINKEDIN_LINK](https://linkedin.com/in/vickeykushwah57)" target="_blank">
+<a href="https://linkedin.com/in/vickeykushwah57" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 
-<a href="mailto:kushwahvicky80@gmail.com">
+<a href="kushwahvicky80@gmail.com">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
 </a>
 
-<a href="[YOUR_GITHUB_LINK](https://github.com/vickykushwah57)" target="_blank">
+<a href="https://github.com/vickykushwah57" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
 </a>
 
-<a href="[YOUR_LEETCODE_LINK](https://www.leetcode.com/vickey_57)" target="_blank">
+<a href="https://www.leetcode.com/vickey_57" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
 </a>
 
-<a href="[YOUR_HACKERRANK_LINK](https://www.hackerrank.com/vicky57)" target="_blank">
+<a href="https://www.hackerrank.com/vicky57" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
 </a>
 
-<a href="[YOUR_CODECHEF_LINK](https://www.codechef.com/users/vickey_57)" target="_blank">
+<a href="https://www.codechef.com/users/vickey_57" target="_blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
 </a>
 
-<a href="[YOUR_YOUTUBE_LINK](https://www.youtube.com/c/vickeykushwah57)" target="_blank">
+<a href="https://www.youtube.com/c/vickeykushwah57" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
 </a>
 
-<a href="[YOUR_INSTAGRAM_LINK](https://instagram.com/nameisvickey_)" target="_blank">
+<a href="https://instagram.com/nameisvickey_" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
 </a>
 
-<a href="[YOUR_FACEBOOK_LINK](https://fb.com/vickeykushwah57)" target="_blank">
+<a href="https://fb.com/vickeykushwah57" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
 </a>
 
