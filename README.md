@@ -67,7 +67,7 @@ A Java Full Stack application for viewing cricket scores, match information and 
 
 ## 💻 Top Languages
 
-![Top Languages](https://ghstats.dev/api/languages?username=vickykushwah57)
+![Top Languages](https://ghstats.dev/api/langs?username=vickykushwah57&layout=compact)
 
 ## 🔥 GitHub Streak
 
