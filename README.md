@@ -75,7 +75,7 @@ A Java Full Stack application for viewing cricket scores, match information and 
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 
-<a href="kushwahvicky80@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kushwahvicky80@gmail.com" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
 </a>
 
@@ -89,10 +89,6 @@ A Java Full Stack application for viewing cricket scores, match information and 
 
 <a href="https://www.hackerrank.com/vicky57" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-</a>
-
-<a href="https://www.codechef.com/users/vickey_57" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
 </a>
 
 <a href="https://www.youtube.com/c/@vickeykushwah57" target="_blank">
