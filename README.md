@@ -41,7 +41,7 @@ A full-stack library management application built to manage books, members and b
 - ✅ Validation and exception handling
 - 🔄 RESTful APIs
 
-🔗 [View Project](YOUR_LIBRARY_PROJECT_LINK)
+🔗 [View Project](https://github.com/vickykushwah57/library-management-system)
 
 
 ### 🏏 Online Cricket Score
@@ -63,7 +63,7 @@ A Java Full Stack application for viewing cricket scores, match information and 
 
 ## 📊 GitHub Stats
 
-![Shiva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![Vickey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vickykushwah57&show_icons=true&theme=default)
 
 
 ## 🤝 Connect With Me
