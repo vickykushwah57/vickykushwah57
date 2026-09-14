@@ -70,19 +70,64 @@ Hi! I'm **Vickey Kushwah**, a passionate **Java Developer** and **Spring Boot en
 | **Library Management System** | A backend REST API project developed using Spring Boot for managing books, members and book issue/return operations. | `Java` `Spring Boot` `Spring Data JPA` `Hibernate` `MySQL` `REST API` `Maven` | [View Repo](https://github.com/shivakushwah57/library-management-system) |
 | **Online Cricket Score** | A Java Full Stack application for viewing live cricket scores, match information and managing cricket-related data. | `Java` `Servlets` `JSP` `MySQL` `HTML` `CSS` `JavaScript` `Tomcat` | [View Repo](YOUR_CRICKET_PROJECT_LINK) |
 
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://ghstats.dev/api/card?username=vickykushwah57&theme=tokyonight&show_icons=true&hide_border=false" alt="GitHub Analytics"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://ghstats.dev/api/card?username=vickykushwah57&theme=tokyonight)
+
+---
 
 ## 💻 Top Languages
 
 <p align="left">
   <img src="https://ghstats.dev/api/langs?username=vickykushwah57&layout=compact&locale=en&hide_title=false&card_width=320&langs_count=5&hide_border=false&theme=tokyonight" height="150" alt="Top Languages" /> </p>
 
+---
 
 ## 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vickykushwah57&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <a href="https://github.com/vickykushwah57">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vickykushwah57&theme=github-compact&hide_border=true" alt="GitHub Contribution Activity Graph"/>
+  </a>
+</p>
+
+---
+
+## 📅 Commit Graph
+
+<p align="center">
+  <a href="https://github.com/vickykushwah57">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vickykushwah57&theme=github-compact&area=true&hide_border=true" alt="GitHub Commit Graph"/>
+  </a>
+</p>
+
+---
+
+## 📌 GitHub Profile
+
+<p align="center">
+  <a href="https://github.com/vickykushwah57">
+    <img src="https://img.shields.io/badge/Visit%20My%20GitHub%20Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+  </a>
+</p>
+
+---
 
 ## 🤝 Connect With Me
 
@@ -113,5 +158,17 @@ Hi! I'm **Vickey Kushwah**, a passionate **Java Developer** and **Spring Boot en
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
 </a>
 
+</p>
+
+---
+
+## ⭐ Thanks for visiting my profile!
+
+<p align="center">
+  <b>Keep Learning • Keep Building • Keep Growing 🚀</b>
+</p>
+
+<p align="center">
+  <i>Let's connect and build something amazing together!</i>
 </p>
 
