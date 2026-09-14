@@ -93,16 +93,6 @@ Hi! I'm **Vickey Kushwah**, a passionate **Java Developer** and **Spring Boot en
 
 ---
 
-## 📌 GitHub Profile
-
-<p align="left">
-  <a href="https://github.com/vickykushwah57">
-    <img src="https://img.shields.io/badge/Visit%20My%20GitHub%20Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
-  </a>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
