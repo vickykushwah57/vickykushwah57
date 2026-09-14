@@ -63,7 +63,7 @@ A Java Full Stack application for viewing cricket scores, match information and 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://ghstats.dev/api/card?username=vickykushwah57&theme=cobalt)
+![GitHub Stats](https://ghstats.dev/api/card?username=vickykushwah57&theme=synthwave)
 
 ## 💻 Top Languages
 
@@ -71,7 +71,7 @@ A Java Full Stack application for viewing cricket scores, match information and 
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vickykushwah57&theme=synthwave)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vickykushwah57&theme=cobalt)](https://git.io/streak-stats)
 
 ## 🤝 Connect With Me
 
