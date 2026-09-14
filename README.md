@@ -74,15 +74,9 @@ Hi! I'm **Vickey Kushwah**, a passionate **Java Developer** and **Spring Boot en
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<p align="left">
   <img src="https://ghstats.dev/api/card?username=vickykushwah57&theme=tokyonight&show_icons=true&hide_border=false" alt="GitHub Analytics"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://ghstats.dev/api/card?username=vickykushwah57&theme=tokyonight)
 
 ---
 
@@ -99,29 +93,9 @@ Hi! I'm **Vickey Kushwah**, a passionate **Java Developer** and **Spring Boot en
 
 ---
 
-## 📈 Contribution Activity Graph
-
-<p align="center">
-  <a href="https://github.com/vickykushwah57">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vickykushwah57&theme=github-compact&hide_border=true" alt="GitHub Contribution Activity Graph"/>
-  </a>
-</p>
-
----
-
-## 📅 Commit Graph
-
-<p align="center">
-  <a href="https://github.com/vickykushwah57">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vickykushwah57&theme=github-compact&area=true&hide_border=true" alt="GitHub Commit Graph"/>
-  </a>
-</p>
-
----
-
 ## 📌 GitHub Profile
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/vickykushwah57">
     <img src="https://img.shields.io/badge/Visit%20My%20GitHub%20Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
   </a>
@@ -129,7 +103,7 @@ Hi! I'm **Vickey Kushwah**, a passionate **Java Developer** and **Spring Boot en
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 
