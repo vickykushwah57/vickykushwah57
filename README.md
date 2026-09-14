@@ -1,3 +1,17 @@
+<h1 align="center">Hi 👋, I'm Vickey Kushwah</h1>
+<h3 align="center">A passionate Java Developer and Spring Boot enthusiast from India</h3>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vickykushwah57&label=Profile%20views&color=0e75b6&style=flat"alt="Profile View" /> 
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vickykushwah57" alt="GitHub Profile Trophy" />
+  </a> 
+</p>
+
+
 ## 👨‍💻 About Me
 
 Hi! I'm **Vickey Kushwah**, a passionate **Java Developer** and **Spring Boot enthusiast** from India.
