@@ -60,14 +60,10 @@ A Java Full Stack application for viewing cricket scores, match information and 
 
 🔗 [View Project](YOUR_CRICKET_PROJECT_LINK)
 
-```html
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://ghstats.dev/api/card?username=vickykushwah57&theme=tokyonight)
-```
-## 📊 GitHub Stats 2
-
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=vickykushwah57&theme=tokyonight)
 
 ## 💻 Top Languages
 
