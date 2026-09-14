@@ -67,7 +67,7 @@ A Java Full Stack application for viewing cricket scores, match information and 
 ```
 ## 📊 GitHub Stats 2
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=vickykushwah57&theme=tokyonight&count_private=false)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=vickykushwah57&theme=tokyonight)
 
 ## 💻 Top Languages
 
