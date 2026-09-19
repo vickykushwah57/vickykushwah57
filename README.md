@@ -4,6 +4,32 @@
 
 ---
 
+## 👨‍💻 About Me
+
+Hi! I'm **Vickey Kushwah**, a passionate **Java Developer** and **Spring Boot enthusiast** from India.
+
+- 🎓 I'm a fresher looking for opportunities as a Java Developer.
+  
+- 🔭 I’m currently working on [Library Management System](https://github.com/vickykushwah57/library-management-system)
+
+- 🌱 I’m currently learning **Java, Spring Boot, Spring Data JPA, REST API, React, Hibernate, MySQL, Git & GitHub**
+
+- 👯 I’m looking to collaborate on **Java & Spring Boot Projects**
+
+- 🤝 I’m looking for help with **Spring Boot & Full Stack Development**
+
+- 🧩 I have a strong interest in backend development and REST API development.
+
+- 💬 Ask me about **Java, Spring Boot, REST APIs, MySQL**
+
+- 📫 How to reach me **kushwahvicky80@gmail.com**
+
+- ⚡ Fun fact **I believe consistent learning leads to great results 🚀**
+
+- 🎯 My goal is to build clean, scalable and real-world applications.
+
+---
+
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
@@ -34,6 +60,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
 </p>
+
+---
+
+## 📌 Featured Projects
+
+| Project Name | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Library Management System** | A backend REST API project developed using Spring Boot for managing books, members and book issue/return operations. | `Java` `Spring Boot` `Spring Data JPA` `Hibernate` `MySQL` `REST API` `Maven` | [View Repo](https://github.com/shivakushwah57/library-management-system) |
+| **Online Cricket Score** | A Java Full Stack application for viewing live cricket scores, match information and managing cricket-related data. | `Java` `Servlets` `JSP` `MySQL` `HTML` `CSS` `JavaScript` `Tomcat` | [View Repo](YOUR_CRICKET_PROJECT_LINK) |
 
 ---
 
