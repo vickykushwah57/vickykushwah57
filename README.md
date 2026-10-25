@@ -132,6 +132,6 @@ Hi! I'm **Vickey Kushwah**, a passionate **Java Developer** and **Spring Boot en
 </p>
 
 <p align="center">
-  <i>Let's connect and build something amazing together!</i>
+  <i>Let's connect and build something amazing together</i>
 </p>
 
